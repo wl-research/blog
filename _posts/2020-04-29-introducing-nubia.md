@@ -12,7 +12,7 @@ Here's the table of contents:
 
 We have designed a new, fully neural paradigm to build evaluation metrics for language generation tasks. Our proof of concept is interpretable, modular, largely exceeds currently used metrics and slightly exceeds/matches state-of-the art as far as correlation with human judgment of quality goes while presenting upsides of continual improvement. This has the potential to remove bottlenecks and spur progress in the task of machine translation, image captioning and summarization.
 
-![](../images/birds-nubia.png)
+![](https://wl-research.github.io/blog/images/birds-nubia.png)
 
 
 ### Slightly longer story: 
