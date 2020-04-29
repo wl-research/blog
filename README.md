@@ -1,3 +1,3 @@
 # WL blog
 
-wl-research.github.com/blog
+https://wl-research.github.io/blog/
