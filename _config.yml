@@ -7,12 +7,14 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: NUBIA
-description: NeUral Based Interchangeability Assessor. A SoTA text similarity metric.
+description: NeUral Based Interchangeability Assessor. A new SoTA evaluation metric for text generation.
 avatar: https://i.ibb.co/L645r61/Screen-Shot-2020-04-29-at-1-removebg-preview.png
+github:
+  repository_url: https://github.com/wl-research/nubia
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: hassanmohamed@alum.mit.edu
+twitter_username: si3luwa
 
 # Set this to true to get LaTeX math equation support
 use_math:
