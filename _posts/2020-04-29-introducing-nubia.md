@@ -1,15 +1,15 @@
 # Introducing NUBIA
 
-# Introducing NUBIA: NeUral Based Interchangeability Assessor
+# Introducing NUBIA: A new way to evaluate text. 
 
-### TLDR: 
+## TLDR: 
 
 We have designed a new, fully neural paradigm to build evaluation metrics for language generation tasks. NUBIA is interpretable, modular, largely outperforms currently used metrics and slightly exceeds/matches state-of-the art as far as correlation with human judgment. There is still of course the upside of continual improvement. We believe this can greatly aid progress in the language tasks of machine translation, image captioning and summarization.
 
 ![](https://wl-research.github.io/blog/images/birds-nubia.png)
 
 
-### Why: 
+## Why: 
 
 When we first started this project, around spring 2019, the premise was whether one could compare two documents by comparing their summaries. So to figure out whether documents were similar, could you first summarize them and then apply a similarity metric on their summaries? We quickly realized that the bottleneck to this was getting a useful metric for text similarity.  
 
