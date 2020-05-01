@@ -2,7 +2,7 @@
 
 ## What is NUBIA? 
 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/wl-research/nubia.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/wl-research/nubia/stargazers/)
 
 
 NUBIA is a SoTA text similarity metric. It stands for NeUral Based Interchangeability Assessor. In addition to returning an interchangeability score, NUBIA also returns scores for semantic relation, contradiction, irrelevancy, logical agreement, and grammaticality. 
