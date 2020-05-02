@@ -5,7 +5,7 @@
 
 NUBIA is a SoTA text similarity metric. It stands for NeUral Based Interchangeability Assessor. In addition to returning an interchangeability score, NUBIA also returns scores for semantic relation, contradiction, irrelevancy, logical agreement, and grammaticality. 
 
-Check out our [paper](https://arxiv.org/abs/2004.14667), [repo](https://github.com/wl-research/nubia) and [Nubia's backstory](https://wl-research.github.io/blog/2020/04/29/introducing-nubia.html).
+### [View Paper](https://arxiv.org/abs/2004.14667) | [Repo](https://github.com/wl-research/nubia) | [Notebook](https://colab.research.google.com/drive/1_K8pOB8fRRnkBPwlcmvUNHgCr4ur8rFg) | [Nubia Backstory](https://wl-research.github.io/blog/2020/04/29/introducing-nubia.html)
 
 <img src="images/demo-short.gif" />
 
