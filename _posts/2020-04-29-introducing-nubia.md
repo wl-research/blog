@@ -4,7 +4,7 @@
 
 ## TLDR: 
 
-We have designed a new, fully neural paradigm to build evaluation metrics for language generation tasks. NUBIA is interpretable, modular, largely outperforms currently used metrics and slightly exceeds/matches state-of-the art as far as correlation with human judgment. There is still of course the upside of continual improvement. We believe this can greatly aid progress in the language tasks of machine translation, image captioning and summarization.
+We have designed a fully neural paradigm to build evaluation metrics for text generation tasks (image captioning, machine translation, summarization). NUBIA is interpretable, modular, largely outperforms currently used metrics and slightly exceeds/matches state-of-the-art as far as correlation with human judgment. It's a continuously improving metric and we believe it can greatly aid progress in text generation tasks.
 
 ![](https://wl-research.github.io/blog/images/birds-nubia.png)
 
