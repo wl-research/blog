@@ -61,7 +61,7 @@ Another example shows how the metrics can keep up despite differences in sentenc
 
 <img src="images/contradiction-demo.gif" />
 
-The contradiction score went from `0.073%` to `99.5%` despite the major difference in structure. 
+The contradiction score went from `0.073%` to `99.5%`, even though the sentences are structured very differently. 
 
 For more examples, check out the [repo](https://github.com/wl-research/nubia) and [colab notebook](https://colab.research.google.com/drive/1_K8pOB8fRRnkBPwlcmvUNHgCr4ur8rFg). To better understand the methodology and motivation check out the [paper](https://arxiv.org/abs/2004.14667) and [Nubia's backstory](https://wl-research.github.io/blog/2020/04/29/introducing-nubia.html). 
 
