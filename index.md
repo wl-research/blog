@@ -7,7 +7,7 @@ NUBIA is a SoTA evaluation metric for text generation. It stands for NeUral Base
 
 ### [View Paper](https://arxiv.org/abs/2004.14667) | [Repo](https://github.com/wl-research/nubia) | [Notebook](https://colab.research.google.com/drive/1_K8pOB8fRRnkBPwlcmvUNHgCr4ur8rFg) | [Nubia Backstory](https://wl-research.github.io/blog/2020/04/29/introducing-nubia.html) | [FAQ](https://github.com/wl-research/nubia/blob/master/FAQ.md)
 
-<img src="images/demo-long-compressed.gif"></img>
+<img src="images/demo-long-compressed.gif" />
 
 ## How does it work? 
 
