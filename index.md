@@ -13,7 +13,7 @@ NUBIA is a SoTA evaluation metric for text generation. It stands for NeUral Base
 
 <img src="images/flowchart.png" />
 
-Nubia's composed of three modules. The first is neural feature extraction. The three main neural features that power the metric are semantic similarity, logical inference, and sentence legibility. These are extracted by exposing layers from powerful (pretrained) language models: RoBERTa STS for semantic similarity, RoBERTa MNLI for logical inference, and GPT-2 for sentence legibility. 
+Nubia is composed of three modules. The first is neural feature extraction. The three main neural features that power the metric are semantic similarity, logical inference, and sentence legibility. These are extracted by exposing layers from powerful (pretrained) language models: RoBERTa STS for semantic similarity, RoBERTa MNLI for logical inference, and GPT-2 for sentence legibility. 
 
 The second module is the aggregator. This module is trained to approximate a function mapping input neural features to a quality score that reflects how interchangeable the sentences are. The objective is to come as close as possible to human evaluation. 
 
@@ -22,7 +22,7 @@ The final module is calibration. This is necessary because the aggregator is not
 
 ## How does it perform? 
 
-We have been able to achieve SoTA performance in machine translation and image captioning. Results below are the Absolute Pearson correlations with segment-level human judgments on WMT17 to-English translations.
+We have been able to achieve SoTA performance in assessing the quality of machine translation and image captioning. Results below are the Absolute Pearson correlations with segment-level human judgments on WMT17 to-English translations.
 
 <img src="images/WMT18.png" />
 
