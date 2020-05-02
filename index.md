@@ -61,5 +61,3 @@ The contradiction score went from `0.073%` to `99.5%` despite the major differen
 
 For more examples, check out the [repo](https://github.com/wl-research/nubia) and [colab notebook](https://colab.research.google.com/drive/1_K8pOB8fRRnkBPwlcmvUNHgCr4ur8rFg). To better understand the methodology and motivation check out the [paper](https://arxiv.org/abs/2004.14667) and [Nubia's backstory](https://wl-research.github.io/blog/2020/04/29/introducing-nubia.html). 
 
-[![GitHub stars](https://img.shields.io/github/stars/wl-research/nubia.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/wl-research/nubia/stargazers/)
-
