@@ -2,6 +2,8 @@
 
 # Introducing NUBIA: A new way to evaluate text. 
 
+### [View Paper](https://arxiv.org/abs/2004.14667) | [Repo](https://github.com/wl-research/nubia) | [Notebook](https://colab.research.google.com/drive/1_K8pOB8fRRnkBPwlcmvUNHgCr4ur8rFg)
+
 ## TLDR: 
 
 We have designed a fully neural paradigm to build evaluation metrics for text generation tasks (image captioning, machine translation, summarization). NUBIA is interpretable, modular, largely outperforms currently used metrics and slightly exceeds/matches state-of-the-art as far as correlation with human judgment. It's a continuously improving metric and we believe it can greatly aid progress in text generation tasks.
