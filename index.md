@@ -20,7 +20,7 @@ Nubia's composed of three modules. The first is neural feature extraction. The t
 
 We have been able to achieve SoTA performance in machine translation and image captioning. Results below are the Absolute Pearson correlations with segment-level human judgments on WMT17 to-English translations.
 
-<img src="images/WMT17.png" />
+<img src="images/WMT18.png" />
 
 Results below are the Kendall’s Tau correlations with human judgment on the Flickr 8K dataset. 
 
