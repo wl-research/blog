@@ -2,7 +2,7 @@
 
 # Introducing NUBIA: A new way to evaluate text. 
 
-### [View Paper](https://arxiv.org/abs/2004.14667) | [Repo](https://github.com/wl-research/nubia) | [Notebook](https://colab.research.google.com/drive/1_K8pOB8fRRnkBPwlcmvUNHgCr4ur8rFg) | [FAQ](https://github.com/wl-research/nubia/blob/master/FAQ.md) | [Back](https://wl-research.github.com/blog/)
+### [View Paper](https://arxiv.org/abs/2004.14667) | [Repo](https://github.com/wl-research/nubia) | [Notebook](https://colab.research.google.com/drive/1_K8pOB8fRRnkBPwlcmvUNHgCr4ur8rFg) | [FAQ](https://github.com/wl-research/nubia/blob/master/FAQ.md) | [Back](https://wl-research.github.io/blog/)
 
 ## TLDR: 
 
